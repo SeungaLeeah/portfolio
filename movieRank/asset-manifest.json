@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/portfolio/movieRank/static/js/main.55f85fa0.js",
+    "index.html": "/portfolio/movieRank/index.html",
+    "main.55f85fa0.js.map": "/portfolio/movieRank/static/js/main.55f85fa0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.55f85fa0.js"
+  ]
+}
