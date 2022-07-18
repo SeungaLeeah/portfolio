@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/portfolio/clonecoding01/static/js/main.131e957f.js",
+    "static/media/hamburger.jpg": "/portfolio/clonecoding01/static/media/hamburger.300dd093a187195c5883.jpg",
+    "static/media/tablesetting.jpg": "/portfolio/clonecoding01/static/media/tablesetting.a72da3cc51e0cc4db6d2.jpg",
+    "static/media/tablesetting2.jpg": "/portfolio/clonecoding01/static/media/tablesetting2.ab0b5834d17daa7669cd.jpg",
+    "index.html": "/portfolio/clonecoding01/index.html",
+    "main.131e957f.js.map": "/portfolio/clonecoding01/static/js/main.131e957f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.131e957f.js"
+  ]
+}
