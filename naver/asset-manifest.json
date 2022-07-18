@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/protfolio/popup_test/static/js/main.f7447959.js",
-    "static/media/logo.png": "/protfolio/popup_test/static/media/logo.057b13a7f919ff1fb135.png",
-    "index.html": "/protfolio/popup_test/index.html",
-    "main.f7447959.js.map": "/protfolio/popup_test/static/js/main.f7447959.js.map"
+    "main.js": "/protfolio/naver/static/js/main.216bdc26.js",
+    "static/media/logo.png": "/protfolio/naver/static/media/logo.057b13a7f919ff1fb135.png",
+    "index.html": "/protfolio/naver/index.html",
+    "main.216bdc26.js.map": "/protfolio/naver/static/js/main.216bdc26.js.map"
   },
   "entrypoints": [
-    "static/js/main.f7447959.js"
+    "static/js/main.216bdc26.js"
   ]
 }
